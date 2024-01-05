@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - Object 🖐️ used 
+  - this 🙋 explained
+  - arrow function 🙋 explained
+  - async function 🙋 explained
+  - call 🖐️ used 
+  - bind 🖐️ used 
+  - apply 🖐️ used 
+  - instanceof 🙋 explained
+  - ...spread 🙋 explained
+  - ...rest 🙋 explained
+  - typeof 🙋 explained
+  - destructuring 🙋 explained
+  - generator 🎓 known
+  - iterator 🖐️ used 
+  - async generator 🎓 known
+  - async iterator 🎓 known
+  - chaining 🖐️ used 
+  - optional chaining 🖐️ used 
   - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
+  - global 🎓 known
+  - globalThis 🎓 known
+  - window 🖐️ used 
+  - getters and setters 🖐️ used 
+  - __proto__ 🖐️ used 
+  - prototype 🖐️ used 
+  - equality operators 🙋 explained
+  - logical operators 🙋 explained
+  - bitwise operators 🙋 explained
+  - ternary operator 🙋 explained
+  - void 🎓 known
+  - yield 🖐️ used 
+  - await 🖐️ used 
+  - template literal 🎓 known
+  - strict mode 🖐️ used
+  - delete 🖐️ used
+  - in 🖐️ used
+  - super 🖐️ used
+  - Symbol 🖐️ used
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if 🙋 explained
+  - while 🙋 explained
+  - do..while 🙋 explained
+  - for 🙋 explained
+  - for..in 🙋 explained
+  - for..of 🙋 explained
+  - for await 🖐️ used
+  - throw 🖐️ used
+  - break 🙋 explained
+  - continue 🙋 explained
+  - import 🖐️ used
+  - export 🖐️ used
+  - label 👂 heard
+  - try..catch 🙋 explained
+  - switch 🙋 explained
+  - class 🖐️ used
+  - new Error 🖐️ used
+  - with 👂 heard
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration 🖐️ used
+  - function expression 🖐️ used
+  - return 🙋 explained
+  - default parameters 🙋 explained
+  - functional object 🎓 known 
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
+  - Array 🖐️ used
+  - mixin 🎓 known
+  - extend 🎓 known
+  - typed arrays 👂 heard 
+  - Map 🖐️ used
+  - Set 🖐️ used
+  - undefined 🖐️ used
+  - null 🖐️ used 
+  - Proxy 🖐️ used
   - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - timers 🖐️ used 
+  - EventEmitter 🖐️ used
+  - RegExp 🖐️ used
+  - Date 🖐️ used
+  - BigInt 🎓 known
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 🎓 known
+  - Node.js 🖐️ used
+  - npm 🖐️ used
+  - prettier 🎓 known
+  - MDN 🖐️ used
