@@ -49,7 +49,7 @@
   - Observer 🙋 explained 
   - Strategy 🖐️ used
   - Facade 🎓 know
-  - Proxy 👂 heard
+  - Proxy 🖐️ used
   - Chain of Responsibility 🎓 know
   - Command 🎓 know
   - Iterator 🖐️ used

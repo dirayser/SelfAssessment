@@ -33,8 +33,8 @@
   - Async Generator
   - Async Iterator
   - Event
-  - Coroutine 👂 heard
-  - Goroutine
+  - Coroutine 🖐️ used
+  - Goroutine 👂 heard 
   - Signal 
   - Stream
   - Chain of responsibility
@@ -48,7 +48,7 @@
   - async compose
 - Async abstractions interfaces
   - EventEmitter 🖐️ used 
-  - Observable/Observer
+  - Observable/Observer 🖐️ used 
   - Readable
   - Writable
   - Transform
@@ -56,7 +56,7 @@
   - Async Queue 🖐️ used 
   - Async Collector
   - Semaphore 🖐️ used
-  - Mutex 
+  - Mutex 🖐️ used 
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers 🎓 known

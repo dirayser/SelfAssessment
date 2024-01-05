@@ -95,7 +95,7 @@
   - HTTP/3 (QUIC)
   - Long polling 🖐️ used
   - REST 🖐️ used
-  - RPC 🎓 known
+  - RPC 🖐️ used
   - Routing 🖐️ used
   - DoS 🎓 known
   - DDoS 🎓 known

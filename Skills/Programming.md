@@ -51,7 +51,7 @@
   - monad 🎓 known
   - monoid 🎓 known
   - generator 🖐️ used 
-  - coroutine 👂 heard
+  - coroutine 🖐️ used
 - Data structures
   - array 🙋 explained
   - structure 🙋 explained 
@@ -95,7 +95,7 @@
   - decomposition 🙋 explained
   - spaghetti 🙋 explained
   - silver bullet 🙋 explained
-  - not invented here
+  - not invented here 👂 heard 
   - dead code 🙋 explained
   - unreachable code 🙋 explained
   - duplicate code 🙋 explained
