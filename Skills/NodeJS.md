@@ -1,32 +1,32 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js 🎓 known
+  - Stateful and stateless servers 🎓 known 
   - Nonblocking I/O and slocking code
-  - Event loop: phases
+  - Event loop: phases 🎓 known
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules 🎓 known
+  - ECMAScript modules 🎓 known
+  - node:module 🎓 known
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules 🖐️ used 
+  - Dependencies: package.json and package lock 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
-  - DI containers
+  - Dependency injection 🖐️ used
+  - DI containers 🖐️ used
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments 🖐️ used 
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -38,7 +38,7 @@
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async 🖐️ used 
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -58,21 +58,21 @@
   - node:url vs new URL
   - node:assert
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer 🎓 known
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
+  - Dependency injection 🖐️ used
+  - GRASP 🎓 known
+  - SOLID 📢 talked
   - GoF patterns
   - Distributed systems
   - Highload applications
   - Clean architecture
-  - DDD
+  - DDD 🖐️ used
   - Message Queue
   - CQS
   - CQRS
@@ -86,23 +86,23 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) 🖐️ used
+  - TCP/SSL 🎓 known
+  - UDP 🎓 known
+  - TLS 🖐️ used
+  - Websocket  🎓 known
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Long polling 🖐️ used
+  - REST 🖐️ used
+  - RPC 🎓 known
+  - Routing 🖐️ used
+  - DoS 🎓 known
+  - DDoS 🎓 known
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 🎓 known
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -110,11 +110,11 @@
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates 🎓 known
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging 🖐️ used
   - Application configuring
   - Testing
   - CI/CD
@@ -123,7 +123,7 @@
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -145,11 +145,11 @@
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools 🎓 known
   - Flame graph
-  - Memory leaks
+  - Memory leaks 🎓 known
   - Resource leaks
-  - Data race
+  - Data race 🎓 known
 - Integrations and bindings
   - Native addons
   - C and C++ addons
