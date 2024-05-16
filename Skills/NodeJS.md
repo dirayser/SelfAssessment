@@ -87,7 +87,7 @@
   - IP sticky sessions
   - Endpoint throttling
   - HTTP(S) 🖐️ used
-  - TCP/SSL 🎓 known
+  - TCP/SSL 🖐️ used
   - UDP 🎓 known
   - TLS 🖐️ used
   - Websocket  🎓 known
@@ -110,7 +110,7 @@
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates 🎓 known
+  - SSL certificates 🖐️ used
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
